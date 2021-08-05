@@ -65,11 +65,11 @@
             "itemtype": "skin",
              "search1": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.CP_Body_Commando_F_RebirthDefaultA",
              "replace1": "/Game/Athena/Heroes/Meshes/Bodies/CP_029_Athena_Body_Halloween.CP_029_Athena_Body_Halloween",
-             "assetpath1": "FortniteGame\Content\Balance/DefaultGameDataCosmetics.uasset",
+             "assetpath1": "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
              "search1pak": "pakchunk10_s4-WindowsClient.ucas",
              "search2": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RebirthDefaultA.CP_Head_F_RebirthDefaultA",
              "replace2": "/Game/Athena/Heroes/Meshes/Heads/F_Med_HIS_Ramirez_Head_HW01_ATH.F_Med_HIS_Ramirez_Head_HW01_ATH",
-             "assetpath2": "FortniteGame\Content\Balance/DefaultGameDataCosmetics.uasset",
+             "assetpath2": "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
              "search2pak": "pakchunk10_s4-WindowsClient.ucas",
               
           },
