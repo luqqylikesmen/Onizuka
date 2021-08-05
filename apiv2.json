@@ -61,7 +61,7 @@
             "name": "default to ghoul trooper",
             "iconswap": "https://image.fnbr.co/outfit/5ab15c3e0499b850d8511de4/icon_192.png",
             "icon": "https://image.fnbr.co/outfit/5ab16c0e5f957f27504aa4e4/icon_192.png",
-            "type": "mesh",
+            "type": "cp",
             "itemtype": "skin",
              "search1": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.CP_Body_Commando_F_RebirthDefaultA",
              "replace1": "/Game/Athena/Heroes/Meshes/Bodies/CP_029_Athena_Body_Halloween.CP_029_Athena_Body_Halloween",
