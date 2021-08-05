@@ -1,0 +1,55 @@
+{
+    "Database":{
+       "Cosmetics":[
+          {
+            "name": "Gingerbread Raider to renegade raider",
+            "iconswap": "https://image.fnbr.co/outfit/5fc747d209ef8f0287213f9b/icon_192.png",
+            "icon": "https://image.fnbr.co/outfit/5ab17d925f957f27504aa53d/icon.png",
+            "type": "mesh",
+            "itemtype": "skin",
+             "search1": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_Body.M_F_Renegade_Raider_Holiday_Body",
+             "replace1": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20",
+             "assetpath1": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderHoliday.uasset",
+             "search1pak": "pakchunk10_s22-WindowsClient.ucas",
+              
+          },
+          {
+            "name": "ruby shadows to dizzie",
+            "iconswap": "https://image.fnbr.co/outfit/5ffec109fbcb5fe86516dc19/icon_192.png",
+            "icon": "https://image.fnbr.co/outfit/60acbbdf0b40820a228d64ef/icon_192.png",
+            "type": "mesh",
+            "itemtype": "skin",
+             "search1": "",
+             "replace1": "",
+             "assetpath1": "",
+             "search1pak": "pakchunk10_s22-WindowsClient.ucas",
+             "search2": "",
+             "replace2": "",
+             "assetpath2": "",
+             "search2pak": "pakchunk10_s22-WindowsClient.ucas"
+              
+          },
+          {
+            "name": "ruby shadows to rebirth harley",
+            "iconswap": "https://image.fnbr.co/outfit/5ffec109fbcb5fe86516dc19/icon_192.png",
+            "icon": "https://image.fnbr.co/outfit/5fd8a70c4fd78c73ea9b76b4/icon_192.png",
+            "type": "mesh",
+            "itemtype": "skin",
+             "search1": "",
+             "replace1": "",
+             "assetpath1": "",
+             "search1pak": "pakchunk10_s22-WindowsClient.ucas",
+             "search2": "",
+             "replace2": "",
+             "assetpath2": "",
+             "search2pak": "pakchunk10_s22-WindowsClient.ucas"
+              
+          }
+
+           
+            
+            ]
+          }
+        
+    
+}
