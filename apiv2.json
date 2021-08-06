@@ -7,6 +7,8 @@
             "icon":"https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/icon.png",
             "itemtype":"skin",
+            "early":"false",
+            "type": "mesh",
             "itemperfect":"perfect",
 
             "uasset1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
