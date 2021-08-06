@@ -9,7 +9,7 @@
             "itemtype":"skin",
             "itemperfect":"perfect",
             "type": "mesh",
-            "uasset1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
             "search1pak":"pakchunk10_s4-WindowsClient.ucas",
             "search1":
             [
