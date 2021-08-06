@@ -26,8 +26,8 @@
         },
         {
             "name":"Unknown From Redline",
-            "icon":"https://image.fnbr.co/outfit/610926dbd37be666c44d0b66/icon_192.png",
-            "iconswap":"https://image.fnbr.co/outfit/5ffec109fbcb5fe86516dc19/icon_192.png",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_047_Athena_Commando_F_HolidayReindeer/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
             "itemtype":"skin",
             "itemperfect":"perfect",
             "type": "mesh",
