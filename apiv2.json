@@ -1,83 +1,31 @@
 {
-    "Database":{
-       "Cosmetics":[
-          {
-            "name": "Gingerbread Raider to renegade raider",
-            "iconswap": "https://image.fnbr.co/outfit/5fc747d209ef8f0287213f9b/icon_192.png",
-            "icon": "https://image.fnbr.co/outfit/5ab17d925f957f27504aa53d/icon.png",
-            "type": "mesh",
-            "itemtype": "skin",
-             "search1": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_Body.M_F_Renegade_Raider_Holiday_Body",
-             "replace1": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20",
-             "assetpath1": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderHoliday.uasset",
-             "search1pak": "pakchunk10_s22-WindowsClient.ucas"
-              
-          },
-           {
-            "name": "Gingerbread Raider to renegade raider",
-            "iconswap": "https://image.fnbr.co/outfit/5fc747d209ef8f0287213f9b/icon_192.png",
-            "icon": "https://image.fnbr.co/outfit/5ab17d925f957f27504aa53d/icon.png",
-            "type": "icon",
-            "itemtype": "skin",
-             "search1": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_Body.M_F_Renegade_Raider_Holiday_Body",
-             "replace1": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20",
-             "assetpath1": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderHoliday.uasset",
-             "search1pak": "pakchunk10_s22-WindowsClient.ucas"
-              
-          },
-          {
-            "name": "ruby shadows to dizzie",
-            "iconswap": "https://image.fnbr.co/outfit/5ffec109fbcb5fe86516dc19/icon_192.png",
-            "icon": "https://image.fnbr.co/outfit/60acbbdf0b40820a228d64ef/icon_192.png",
-            "type": "mesh",
-            "itemtype": "skin",
-             "search1": "",
-             "replace1": "",
-             "assetpath1": "",
-             "search1pak": "pakchunk10_s22-WindowsClient.ucas",
-             "search2": "",
-             "replace2": "",
-             "assetpath2": "",
-             "search2pak": "pakchunk10_s22-WindowsClient.ucas"
-              
-          },
-          {
-            "name": "ruby shadows to rebirth harley",
-            "iconswap": "https://image.fnbr.co/outfit/5ffec109fbcb5fe86516dc19/icon_192.png",
-            "icon": "https://image.fnbr.co/outfit/5fd8a70c4fd78c73ea9b76b4/icon_192.png",
-            "type": "mesh",
-            "itemtype": "skin",
-             "search1": "",
-             "replace1": "",
-             "assetpath1": "",
-             "search1pak": "pakchunk10_s22-WindowsClient.ucas",
-             "search2": "",
-             "replace2": "",
-             "assetpath2": "",
-             "search2pak": "pakchunk10_s22-WindowsClient.ucas"
-              
-          },
-           {
-            "name": "default to ghoul trooper",
-            "iconswap": "https://image.fnbr.co/outfit/5ab15c3e0499b850d8511de4/icon_192.png",
-            "icon": "https://image.fnbr.co/outfit/5ab16c0e5f957f27504aa4e4/icon_192.png",
-            "type": "cp",
-            "itemtype": "skin",
-             "search1": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.CP_Body_Commando_F_RebirthDefaultA",
-             "replace1": "/Game/Athena/Heroes/Meshes/Bodies/CP_029_Athena_Body_Halloween.CP_029_Athena_Body_Halloween",
-             "assetpath1": "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
-             "search1pak": "pakchunk10_s4-WindowsClient.ucas",
-             "search2": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RebirthDefaultA.CP_Head_F_RebirthDefaultA",
-             "replace2": "/Game/Athena/Heroes/Meshes/Heads/F_Med_HIS_Ramirez_Head_HW01_ATH.F_Med_HIS_Ramirez_Head_HW01_ATH",
-             "assetpath2": "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
-             "search2pak": "pakchunk10_s4-WindowsClient.ucas",
-              
-          },
+    "Cosmetics": 
+    [
+        {
+            "name":"Renegade Raider From Redline",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
 
-           
-            
+            "uasset1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
+            "uassetsearch1":"RedLineBodySearch",
+            "uassetpak1":"RedLineBodyPak",
+            "uassetoffset1":"RedLineBodyOffset",
+            "uasset1Search":
+            [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED___StreetRacerBlack.F_MED___StreetRacerBlack"
+            ],
+            "uasset1Replace":
+            [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
             ]
-          }
+        }
         
-    
+        
+    ]
 }
