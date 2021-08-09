@@ -2906,6 +2906,68 @@
                 "/Game/Characters/CharacterParts/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01.F_MED_CAU_Armstrong_Head_01"
             ]
 
+        },
+        {
+            "name":"Default To Highland Warrior",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_099_Athena_Commando_F_Scathach/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "Swap8BitHead": "23",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_099_Body_F_Scathach.CP_099_Body_F_Scathach"
+            ],
+            "search2":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01.F_MED_CAU_Armstrong_Head_01"
+            ]
+
+        },
+        {
+            "name":"Default To Battle Hound",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_100_Athena_Commando_M_CuChulainn/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "Swap8BitHead": "23",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_100_Athena_Body_M_CuChulainn.CP_100_Athena_Body_M_CuChulainn"
+            ],
+            "search2":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_CuChulainn.CP_Hat_M_Commando_CuChulainn"
+            ]
+
         }
         
         
