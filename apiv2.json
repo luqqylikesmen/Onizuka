@@ -3137,8 +3137,8 @@
 
         },
         {
-            "name":"Default To Rabbit Raider",
-            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_103_Athena_Commando_M_Bunny/icon.png",
+            "name":"Default To Bunny Brawler",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_104_Athena_Commando_F_Bunny/icon.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
             "itemtype":"skin",
             "itemperfect":"perfect",
