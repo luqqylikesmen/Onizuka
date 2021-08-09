@@ -1205,6 +1205,325 @@
                 "/Game/Athena/Heroes/Meshes/Heads/M_Med_Soldier_Head_DarkHair_01_ATH.M_Med_Soldier_Head_DarkHair_01_ATH"
             ]
 
+        },
+        {
+            "name":"Default To Dominator",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_041_Athena_Commando_F_District/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Commando_District_F.CP_Commando_District_F"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Athena/Heroes/Meshes/Heads/F_MED_BLK_Red_Head_01_ATH.F_MED_BLK_Red_Head_01_ATH"
+            ]
+
+        },
+        {
+            "name":"Default To Circuit Breaker",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_042_Athena_Commando_M_Cyberpunk/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_commando_CyberPunk_M.CP_commando_CyberPunk_M"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Athena/Heroes/Meshes/Heads/M_Med_Soldier_Head_01_ATH.M_Med_Soldier_Head_01_ATH"
+            ]
+
+        },
+        {
+            "name":"Default To Shadow Ops",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_043_Athena_Commando_F_Stealth/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Commando_Stealth_F.CP_Commando_Stealth_F"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Athena/Heroes/Meshes/Heads/F_MED_ASN_Kumiko_Head_01_ATH1.F_MED_ASN_Kumiko_Head_01_ATH1"
+            ]
+
+        },
+        {
+            "name":"Default To Brite Bomber",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_044_Athena_Commando_F_SciPop/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Commando_SciPop_F.CP_Commando_SciPop_F"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Athena/Heroes/Meshes/Heads/F_Med_His_Ramirez_Head_SciPop_ATH.F_Med_His_Ramirez_Head_SciPop_ATH"
+            ]
+
+        },
+        {
+            "name":"Default To Yuletide Ranger",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_045_Athena_Commando_M_HolidaySweater/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Commando_UglySweater_M.CP_Commando_UglySweater_M"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Athena/Heroes/Meshes/Heads/M_Med_BLK_Sydney_Head_01_ATH.M_Med_BLK_Sydney_Head_01_ATH"
+            ]
+
+        },
+        {
+            "name":"Default To Nog Ops",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_046_Athena_Commando_F_HolidaySweater/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Commando_UglySweater_F.CP_Commando_UglySweater_F"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Athena/Heroes/Meshes/Heads/F_MED_ASN_Sarah_Head_01_ATH.F_MED_ASN_Sarah_Head_01_ATH"
+            ]
+
+        },
+        {
+            "name":"Default To Red-Nosed Raider",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_047_Athena_Commando_F_HolidayReindeer/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Commando_Reindeer_F.CP_Commando_Reindeer_F"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Athena/Heroes/Meshes/Heads/F_Med_Ramirez_Head_Reindeer_ATH.F_Med_Ramirez_Head_Reindeer_ATH"
+            ]
+
+        },
+        {
+            "name":"Default To Ginger Gunner",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_048_Athena_Commando_F_HolidayGingerbread/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_commando_Gingerbread_F.CP_commando_Gingerbread_F"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Athena/Heroes/Meshes/Heads/F_MED_CAU_Armstrong_Head_01_ATH.F_MED_CAU_Armstrong_Head_01_ATH"
+            ]
+
+        },
+        {
+            "name":"Default To Merry Marauder",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_049_Athena_Commando_M_HolidayGingerbread/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_commando_GingerBread_M.CP_commando_GingerBread_M"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Hats/CP_Athena_Hat_M_Gingerbread.CP_Athena_Hat_M_Gingerbread"
+            ]
+
+        },
+        {
+            "name":"Default To CrackShot",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_050_Athena_Commando_M_HolidayNutcracker/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_commando_Nutcracker_M.CP_commando_Nutcracker_M"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_Nutcracker.Hat_M_Commando_Nutcracker"
+            ]
+
+        },
+        {
+            "name":"Default To Codename E.L.F.",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_051_Athena_Commando_M_HolidayElf/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.CP_Athena_Body_M_RebirthSoldier"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_commando_Elf.CP_commando_Elf"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Athena/Heroes/Meshes/Heads/M_Med_Soldier_Head_01_ATH.M_Med_Soldier_Head_01_ATH"
+            ]
+
         }
         
         
