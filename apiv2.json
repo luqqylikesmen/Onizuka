@@ -3383,6 +3383,161 @@
                 "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_BLK_Robo.CP_Head_BLK_Robo"
             ]
 
+        },
+        {
+            "name":"Default To Brite Gunner",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_112_Athena_Commando_M_Brite/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "Swap8BitHead": "23",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_112_Athena_Body_M_Brite.CP_112_Athena_Body_M_Brite"
+            ],
+            "search2":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Head_Med_Soldier_M_Brite.CP_Head_Med_Soldier_M_Brite"
+            ]
+
+        },
+        {
+            "name":"Default To Blue Ace",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_113_Athena_Commando_M_BlueAce/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "Swap8BitHead": "23",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_113_Athena_Body_M_BlueAce.CP_113_Athena_Body_M_BlueAce"
+            ],
+            "search2":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/M_Med_HIS_Diego_Head_01.M_Med_HIS_Diego_Head_01"
+            ]
+
+        },
+        {
+            "name":"Default To Trailblazer",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_114_Athena_Commando_F_TacticalWoodland/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "Swap8BitHead": "23",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_114_Body_F_TacticalWoodland.CP_114_Body_F_TacticalWoodland"
+            ],
+            "search2":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_TacticalWoodland.CP_Head_F_TacticalWoodland"
+            ]
+
+        },
+        {
+            "name":"Default To Carbide",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_115_Athena_Commando_M_CarbideBlue/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "Swap8BitHead": "23",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_115_Athena_Body_M_CarbideBlue.CP_115_Athena_Body_M_CarbideBlue"
+            ],
+            "search2":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Head_Med_Soldier_M_CarbideBlue.CP_Head_Med_Soldier_M_CarbideBlue"
+            ]
+
+        },
+        {
+            "name":"Default To Omega",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_116_Athena_Commando_M_CarbideBlack/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "Swap8BitHead": "23",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_116_Athena_Body_M_CarbideBlack.CP_116_Athena_Body_M_CarbideBlack"
+            ],
+            "search2":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Head_Med_Soldier_M_CarbideBlack.CP_Head_Med_Soldier_M_CarbideBlack"
+            ]
+
         }
         
         
