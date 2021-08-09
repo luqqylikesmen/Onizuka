@@ -3,56 +3,13 @@
     "Cosmetics": 
     [
         {
-            "name":"Renegade Raider From Redline",
+            "name":"Renegade Raider - Options",
             "icon":"https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
-            "iconswap":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/icon.png",
+            "IsOption": true,
             "itemtype":"skin",
-            "itemperfect":"perfect",
             "type": "mesh",
-            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
-            "assetpath2":"/Game/Accessories/Hats/Mesh/Female_Outlander_06",
-            "assetpath3":"/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01",
-            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
-            "search2pak": "pakchunk10_s5-WindowsClient.ucas",
-            "search3pak": "pakchunk10_s5-WindowsClient.ucas",
-            "search1":
-            [
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED___StreetRacerBlack.F_MED___StreetRacerBlack"
-            ],
-            "replace1":
-            [
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
-            ],
-            "search2":
-            [
-                "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
-                "/Game/Accessories/Hats/Mesh/Female_Outlander_06.Female_Outlander_06",
-                "/Game/Accessories/Hats/Materials/Hat_F_StreetRacerBlack.Hat_F_StreetRacerBlack"
-            ],
-            "replace2":
-            [
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
-                "/Game/Accessories/Hats/Mesh/Female_Commando_07.Female_Commando_07",
-                "/Game/"
-            ],
-            "search3":
-            [
-                "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
-                "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED_StreetRacerBlack_Head_01.F_MED_StreetRacerBlack_Head_01",
-                "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/F_MED_Commando_Hair_Ponytail.F_MED_Commando_Hair_Ponytail"
-            ],
-            "replace3":
-            [
-                "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
-                "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
-                "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02",
-                "/Game/"
-            ]
+            "Options": [ 1, 2 ]
+           
         },
         {
             "name":"Checkered Renegade Raider From Redline",
@@ -3543,14 +3500,83 @@
         
         
     ],
-    "defaultSwap": {
-        "searchBody": "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage",
-        "searchHead": "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M",
-        "offsetBody": 22612,
-        "offsetHead": 22624,
-        "Swap8BitBody": "17",
-        "Swap8BitHead": "23",
-        "offsetMale": 881,
-        "offsetFemale": 940
-      }
+    "Options": [
+    {
+            "option": 1,
+            "name":"GingerBread Raider To Renegade Raider",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_970_Athena_Commando_F_RenegadeRaiderHoliday/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderHoliday",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s5-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_Body.M_F_Renegade_Raider_Holiday_Body"
+            ],
+            "replace1":
+            [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+            ]
+
+             
+    },
+    {   
+        "option": 2,
+        "name":"Renegade Raider From Redline",
+        "icon":"https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
+        "iconswap":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/icon.png",
+        "itemtype":"skin",
+        "itemperfect":"perfect",
+        "type": "mesh",
+        "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
+        "assetpath2":"/Game/Accessories/Hats/Mesh/Female_Outlander_06",
+        "assetpath3":"/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01",
+        "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+        "search2pak": "pakchunk10_s5-WindowsClient.ucas",
+        "search3pak": "pakchunk10_s5-WindowsClient.ucas",
+        "search1":
+        [
+            "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+            "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+            "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED___StreetRacerBlack.F_MED___StreetRacerBlack"
+        ],
+        "replace1":
+        [
+            "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+            "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+            "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+        ],
+        "search2":
+        [
+            "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
+            "/Game/Accessories/Hats/Mesh/Female_Outlander_06.Female_Outlander_06",
+            "/Game/Accessories/Hats/Materials/Hat_F_StreetRacerBlack.Hat_F_StreetRacerBlack"
+        ],
+        "replace2":
+        [
+            "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+            "/Game/Accessories/Hats/Mesh/Female_Commando_07.Female_Commando_07",
+            "/Game/"
+        ],
+        "search3":
+        [
+            "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
+            "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
+            "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED_StreetRacerBlack_Head_01.F_MED_StreetRacerBlack_Head_01",
+            "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/F_MED_Commando_Hair_Ponytail.F_MED_Commando_Hair_Ponytail"
+        ],
+        "replace3":
+        [
+            "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
+            "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
+            "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02",
+            "/Game/"
+        ]
+    }
+    ]
+    
+      
 }}
