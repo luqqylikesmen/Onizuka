@@ -2454,6 +2454,126 @@
                 "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Scavenger.CP_Hat_M_Commando_Scavenger"
             ]
 
+        },
+        {
+            "name":"Default To Elite Agent",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_083_Athena_Commando_F_Tactical/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_Tactical.CP_Body_Commando_F_Tactical"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_Tactical.CP_Hat_F_Commando_Tactical"
+            ]
+
+        },
+        {
+            "name":"Default To The Reaper",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_084_Athena_Commando_M_Assassin/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_M_Assassin.CP_Body_Commando_M_Assassin"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Head_Med_Soldier_M_Assassin.CP_Head_Med_Soldier_M_Assassin"
+            ]
+
+        },
+        {
+            "name":"Default To Sub Commander",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_085_Athena_Commando_M_Twitch/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_M_Twitch.CP_Body_Commando_M_Twitch"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/M_Med_Soldier_Head_01.M_Med_Soldier_Head_01"
+            ]
+
+        },
+        {
+            "name":"Default To Crimson Scout",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_086_Athena_Commando_M_RedSilk/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_M_RedSilk.CP_Body_Commando_M_RedSilk"
+            ],
+            "search2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier.CP_Athena_Head_M_RebirthSoldier"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Male/Medium/Heads/M_MED_ASN_Jae_Head_01.M_MED_ASN_Jae_Head_01"
+            ]
+
         }
         
         
