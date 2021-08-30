@@ -3842,6 +3842,99 @@
                 "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Head_Med_Soldier_M_AuroraGlow.CP_Head_Med_Soldier_M_AuroraGlow"
             ]
 
+        },
+        {
+            "name":"Default To Toxic Trooper",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_127_Athena_Commando_M_Hazmat/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "Swap8BitHead": "23",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_127_Athena_Body_M_Hazmat.CP_127_Athena_Body_M_Hazmat"
+            ],
+            "search2":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Hazmat.CP_Hat_M_Commando_Hazmat"
+            ]
+
+        },
+        {
+            "name":"Default To Hazard Agent",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_128_Athena_Commando_F_Hazmat/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "Swap8BitHead": "23",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_128_Athena_Body_F_Hazmat.CP_128_Athena_Body_F_Hazmat"
+            ],
+            "search2":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_Hazmat.CP_Hat_F_Commando_Hazmat"
+            ]
+
+        },
+        {
+            "name":"Default To Moisty Merman",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_130_Athena_Commando_M_Merman/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "cp",
+            "Swap8BitBody": "17",
+            "Swap8BitHead": "23",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier",
+            "assetpath2":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_RebirthSoldier",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/Galileo_Ferry/Galileo_Ferry_Harvesting_Combo_Montage.Galileo_Ferry_Harvesting_Combo_Montage"
+            ],
+            "replace1":
+            [
+                "/Game/Athena/Heroes/Meshes/Bodies/CP_130_Athena_Body_M_Merman.CP_130_Athena_Body_M_Merman"
+            ],
+            "search2":
+            [
+                "/Game/Animation/Game/MainPlayer/Combat/Melee/OneHanded/Ethereal/Ethereal_Pickaxe_Harvesting_Combo_CMF_M.Ethereal_Pickaxe_Harvesting_Combo_CMF_M"
+            ],
+            "replace2":
+            [
+                "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Merman.CP_Hat_M_Commando_Merman"
+            ]
+
         }
         
         
