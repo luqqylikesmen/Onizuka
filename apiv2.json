@@ -59,6 +59,7 @@
            
         },
         {
+            "index": 2,
             "name":"Checkered Renegade Raider From Redline",
             "icon":"https://cdn.discordapp.com/attachments/824438219176280074/862789891875799070/bunifuImageButton18.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/icon.png",
@@ -81,6 +82,7 @@
             ]
         },
         {
+            "index": 3,
             "name":"Pink Ghoul Trooper From Nitelite",
             "icon":"https://image.fnbr.co/outfit/5ab16c0e5f957f27504aa4e4/variant1.png",
             "iconswap":"https://image.fnbr.co/outfit/5ae89de0f3d31bc15ac5b7f9/icon_192.png",
@@ -103,6 +105,91 @@
             ]
         },
         {
+             
+            "index": 4,
+            "name":"Modena Icon From Ruby Shadows",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_138_Athena_Commando_F_Foray_YQPB0/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s5-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s5-WindowsClient.ucas",
+            "search1":
+            [
+
+            ],
+            "replace1":
+            [
+
+            ],
+            "search2":
+            [
+
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
+             
+            "index": 5,
+            "name":"Skeletara From Blaze",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_210_Athena_Commando_F_RenegadeSkull/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s5-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s5-WindowsClient.ucas",
+            "search1":
+            [
+
+            ],
+            "replace1":
+            [
+
+            ],
+            "search2":
+            [
+
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
+            "index": 10000,
             "name":"Squire Shield From Frozen Red Shield",
             "icon":"https://fortnite-api.com/images/cosmetics/br/BID_001_BlueSquire/icon.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/BID_167_RedKnightWinterFemale/icon.png",
