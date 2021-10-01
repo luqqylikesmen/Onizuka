@@ -93,15 +93,11 @@
             "search1pak":"pakchunk10_s4-WindowsClient.ucas",
             "search1":
             [
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED___StreetRacerBlack.F_MED___StreetRacerBlack"
+
             ],
             "replace1":
             [
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+               
             ]
         },
         {
@@ -172,6 +168,55 @@
             "search2":
             [
 
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
+             
+            "index": 5,
+            "name":"Ione From Shadow Ruby",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_209_Athena_Commando_F_Werewolf/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s22-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search1":
+            [
+                  "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red.F_MED_Street_Fashion_Red",
+                  "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body",
+                  "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP.F_MED_Street_Fashion_Red_AnimBP_C"
+                  
+            ],
+            "replace1":
+            [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Werewolf/Meshes/F_MED_Werewolf.F_MED_Werewolf",
+                "/Game/",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Werewolf/Meshes/F_MED_Werewolf_AnimBP.F_MED_Werewolf_AnimBP_C"
+            ],
+            "search2":
+            [
+                 "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
+                 "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Head.F_MED_StreetFashionEclipse_Head",
+                 "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_AnimBP_Child.F_MED_Angel_Head_AnimBP_Child_C"
             ],
             "replace2":
             [
