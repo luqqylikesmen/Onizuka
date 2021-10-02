@@ -4,7 +4,7 @@
     [
         {
              
-                "index": 1,
+                "SkinIndex": 1,
                 "name":"Renegade Raider From Redline",
                 "icon":"https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
                 "iconswap":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/icon.png",
@@ -59,7 +59,7 @@
            
         },
         {
-            "index": 2,
+            "SkinIndex": 2,
             "name":"Checkered Renegade Raider From Redline",
             "icon":"https://cdn.discordapp.com/attachments/824438219176280074/862789891875799070/bunifuImageButton18.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/icon.png",
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "index": 3,
+            "SkinIndex": 3,
             "name":"Pink Ghoul Trooper From Nitelite",
             "icon":"https://image.fnbr.co/outfit/5ab16c0e5f957f27504aa4e4/variant1.png",
             "iconswap":"https://image.fnbr.co/outfit/5ae89de0f3d31bc15ac5b7f9/icon_192.png",
@@ -102,7 +102,7 @@
         },
         {
              
-            "index": 4,
+            "SkinIndex": 4,
             "name":"Modena Icon From Ruby Shadows",
             "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_138_Athena_Commando_F_Foray_YQPB0/icon.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
@@ -144,7 +144,7 @@
         },
         {
              
-            "index": 5,
+            "SkinIndex": 5,
             "name":"Skeletara From Blaze",
             "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_210_Athena_Commando_F_RenegadeSkull/icon.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
@@ -186,7 +186,7 @@
         },
         {
              
-            "index": 5,
+            "SkinIndex": 5,
             "name":"Ione From Shadow Ruby",
             "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_209_Athena_Commando_F_Werewolf/icon.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
@@ -234,7 +234,7 @@
        
         },
         {
-            "index": 10000,
+            "BackblingIndex": 1,
             "name":"Squire Shield From Frozen Red Shield",
             "icon":"https://fortnite-api.com/images/cosmetics/br/BID_001_BlueSquire/icon.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/BID_167_RedKnightWinterFemale/icon.png",
@@ -253,6 +253,29 @@
             [
                 "/Game/Accessories/FORT_Backpacks/Mesh/Male_Commando_10.Male_Commando_10",
                 "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_10_V02.Male_Commando_10_V02",
+                "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+            ]
+        },
+        {
+            "BackblingIndex": 2,
+            "name":"Black Shield From Frozen Red Shield",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/BID_004_BlackKnight/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/BID_167_RedKnightWinterFemale/icon.png",
+            "itemtype":"backpacks",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+                "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight",
+                "/Game/Accessories/FORT_Backpacks/Materials/Female_Commando_RedKnight_Winter.Female_Commando_RedKnight_Winter",
+                "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+            ],
+            "replace1":
+            [
+                "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight",
+                "/Game/",
                 "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
             ]
         }
