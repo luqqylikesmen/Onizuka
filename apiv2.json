@@ -321,9 +321,224 @@
         },
         {
              
-            "SkinIndex": 7,
+            "SkinIndex": 8,
             "name":"Wavy Warrior From Blaze",
             "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_176_Athena_Commando_F_TieDyeFashion/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s22-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search1":
+            [
+                  
+                  
+            ],
+            "replace1":
+            [
+               
+            ],
+            "search2":
+            [
+                
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
+             
+            "SkinIndex": 9,
+            "name":"Dyed Breeze From Blaze",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_177_Athena_Commando_F_TieDyeFashion_B/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s22-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search1":
+            [
+                  
+                  
+            ],
+            "replace1":
+            [
+               
+            ],
+            "search2":
+            [
+                
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
+             
+            "SkinIndex": 10,
+            "name":"Swirl Girl From Blaze",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_178_Athena_Commando_F_TieDyeFashion_C/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s22-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search1":
+            [
+                  
+                  
+            ],
+            "replace1":
+            [
+               
+            ],
+            "search2":
+            [
+                
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
+             
+            "SkinIndex": 11,
+            "name":"Swirl Girl From Blaze",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_178_Athena_Commando_F_TieDyeFashion_C/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s22-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search1":
+            [
+                  
+                  
+            ],
+            "replace1":
+            [
+               
+            ],
+            "search2":
+            [
+                
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
+             
+            "SkinIndex": 12,
+            "name":"Color Crush From Blaze",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_179_Athena_Commando_F_TieDyeFashion_D/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s22-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search1":
+            [
+                  
+                  
+            ],
+            "replace1":
+            [
+               
+            ],
+            "search2":
+            [
+                
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
+             
+            "SkinIndex": 13,
+            "name":"Sunburst Dawn From Blaze",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_180_Athena_Commando_F_TieDyeFashion_E/icon.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
             "itemtype":"skin",
             "itemperfect":"perfect",
