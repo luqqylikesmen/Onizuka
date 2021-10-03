@@ -646,13 +646,14 @@
         
     ],
     "Database": {
-        "Options": [
+        "Options": 
+        [
             {
-                    "option": 1,
+                    
                     "name":"Sunburst Dawn From Blaze",
                     "icon1":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
                     "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
-                    "itemtype":"skin",
+                    "itemtype":"option",
                     "itemperfect":"perfect",
                     "type": "mesh",
                     "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderHoliday",
@@ -670,7 +671,7 @@
                      
             }
             
-            ]
+        ]
     }
     
     
