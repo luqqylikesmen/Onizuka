@@ -234,6 +234,135 @@
        
         },
         {
+             
+            "SkinIndex": 6,
+            "name":"Fashion Banshee From Blaze",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s22-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search1":
+            [
+                  
+                  
+            ],
+            "replace1":
+            [
+               
+            ],
+            "search2":
+            [
+                
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
+             
+            "SkinIndex": 7,
+            "name":"Ariana Grande From Blaze",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_158_Athena_Commando_F_Buffet_YC20H/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s22-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search1":
+            [
+                  
+                  
+            ],
+            "replace1":
+            [
+               
+            ],
+            "search2":
+            [
+                
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
+             
+            "SkinIndex": 7,
+            "name":"Wavy Warrior From Blaze",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_176_Athena_Commando_F_TieDyeFashion/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s22-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search1":
+            [
+                  
+                  
+            ],
+            "replace1":
+            [
+               
+            ],
+            "search2":
+            [
+                
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
             "BackblingIndex": 1,
             "name":"Squire Shield From Frozen Red Shield",
             "icon":"https://fortnite-api.com/images/cosmetics/br/BID_001_BlueSquire/icon.png",
