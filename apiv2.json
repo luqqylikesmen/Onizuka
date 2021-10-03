@@ -269,14 +269,32 @@
             "search1":
             [
                 "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight",
-                "/Game/Accessories/FORT_Backpacks/Materials/Female_Commando_RedKnight_Winter.Female_Commando_RedKnight_Winter",
-                "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+                "/Game/Accessories/FORT_Backpacks/Materials/Female_Commando_RedKnight_Winter.Female_Commando_RedKnight_Winter"
             ],
             "replace1":
             [
                 "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight",
-                "/Game/",
-                "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+                "/Game/"
+            ]
+        },
+        {
+            "BackblingIndex": 3,
+            "name":"Galactic Disc From The Sith",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/BID_138_Celestial/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/BID_430_GalileoSpeedBoat_9RXE3/icon.png",
+            "itemtype":"backpacks",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Accessories/FORT_Backpacks/M_MED_Celestial_Backpack/M_MED_Celestial",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+
+                "/Game/Accessories/FORT_Backpacks/Backpack_Galileo_Holos/FX/P_Backpack_GalileoSpeedboat_Holo.P_Backpack_GalileoSpeedboat_Holo"
+            ],
+            "replace1":
+            [
+                "/Game/Accessories/FORT_Backpacks/M_MED_Celestial_Backpack/P_Celestial_MilkyWay.P_Celestial_MilkyWay"
             ]
         }
         
