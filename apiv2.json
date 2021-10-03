@@ -540,7 +540,6 @@
             "name":"Sunburst Dawn From Blaze (Option)",
             "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_180_Athena_Commando_F_TieDyeFashion_E/icon.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
-            "optionswap": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
             "itemtype":"skin",
             "itemperfect":"perfect",
             "type": "mesh",
@@ -646,31 +645,34 @@
         
         
     ],
-    "Options": [
-    {
-            "option": 1,
-            "name":"GingerBread Raider To Renegade Raider",
-            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/icon.png",
-            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_970_Athena_Commando_F_RenegadeRaiderHoliday/icon.png",
-            "itemtype":"skin",
-            "itemperfect":"perfect",
-            "type": "mesh",
-            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderHoliday",
-            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
-            "search2pak":"pakchunk10_s5-WindowsClient.ucas",
-            "search1":
-            [
-                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_Body.M_F_Renegade_Raider_Holiday_Body"
-            ],
-            "replace1":
-            [
-                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+    "Database": {
+        "Options": [
+            {
+                    "option": 1,
+                    "name":"Sunburst Dawn From Blaze",
+                    "icon1":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+                    "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+                    "itemtype":"skin",
+                    "itemperfect":"perfect",
+                    "type": "mesh",
+                    "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderHoliday",
+                    "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+                    "search2pak":"pakchunk10_s5-WindowsClient.ucas",
+                    "search1":
+                    [
+                        "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_Body.M_F_Renegade_Raider_Holiday_Body"
+                    ],
+                    "replace1":
+                    [
+                        "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+                    ]
+        
+                     
+            }
+            
             ]
-
-             
     }
     
-    ]
     
       
 }}
