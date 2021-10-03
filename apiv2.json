@@ -540,6 +540,7 @@
             "name":"Sunburst Dawn From Blaze (Option)",
             "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_180_Athena_Commando_F_TieDyeFashion_E/icon.png",
             "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+            "optionswap": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
             "itemtype":"skin",
             "itemperfect":"perfect",
             "type": "mesh",
