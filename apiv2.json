@@ -641,6 +641,26 @@
             [
                 "/Game/Accessories/FORT_Backpacks/M_MED_Celestial_Backpack/P_Celestial_MilkyWay.P_Celestial_MilkyWay"
             ]
+        },
+        {
+            "PickaxeIndex": 1,
+            "name":"Raider's Revenge From Balloon Axe",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_Lockjaw/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_073_Balloon/icon.png",
+            "itemtype":"pickaxes",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"WID_Harvest_Pickaxe_Balloon",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+
+                "/Game/Weapons/FORT_Melee/Pickaxe_Balloon/Meshes/SK_Pickaxe_Balloon.SK_Pickaxe_Balloon"
+            ],
+            "replace1":
+            [
+                "/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_PostApocalyptic.SK_Pickaxe_PostApocalyptic"
+            ]
         }
         
         
