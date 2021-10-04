@@ -661,6 +661,28 @@
             [
                 "/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_PostApocalyptic.SK_Pickaxe_PostApocalyptic"
             ]
+        },
+        {
+            "EmotesIndex": 1,
+            "name":"Floss From Boogie Down",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/EID_Floss/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/EID_BoogieDown/icon.png",
+            "itemtype":"emotes",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"EID_BoogieDown",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+
+                "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+                "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF"
+            ],
+            "replace1":
+            [
+                "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M",
+                "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M"
+            ]
         }
         
         
