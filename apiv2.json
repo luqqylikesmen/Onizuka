@@ -683,6 +683,28 @@
                 "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M",
                 "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M"
             ]
+        },
+        {
+            "EmotesIndex": 2,
+            "name":"Fresh From Boogie Down",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/EID_Fresh/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/EID_BoogieDown/icon.png",
+            "itemtype":"emotes",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"EID_BoogieDown",
+            "search1pak":"pakchunk10_s4-WindowsClient.ucas",
+            "search1":
+            [
+
+                "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+                "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF"
+            ],
+            "replace1":
+            [
+                "/Game/Animation/Game/MainPlayer/Emotes/Fresh/Emote_Fresh_M.Emote_Fresh_M",
+                "/Game/Animation/Game/MainPlayer/Emotes/Fresh/Emote_Fresh_CMF_M.Emote_Fresh_CMF_M"
+            ]
         }
         
         
