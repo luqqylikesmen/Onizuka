@@ -707,6 +707,49 @@
        
         },
         {
+             
+            "SkinIndex": 17,
+            "name":"Amplitude From Ruby Shadows",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/CID_A_170_Athena_Commando_F_Stands_C/icon.png",
+            "iconswap":"https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+            "type": "mesh",
+            "assetpath1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+            "assetpath2":"",
+            "assetpath3":"",
+            "search1pak":"pakchunk10_s22-WindowsClient.ucas",
+            "search2pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search3pak": "pakchunk10_s22-WindowsClient.ucas",
+            "search1":
+            [
+                  
+                  
+            ],
+            "replace1":
+            [
+               
+            ],
+            "search2":
+            [
+                
+            ],
+            "replace2":
+            [
+
+            ],
+            "search3":
+            [
+
+            ],
+            "replace3":
+            [
+
+            ]
+        
+       
+        },
+        {
             "BackblingIndex": 1,
             "name":"Squire Shield From Frozen Red Shield",
             "icon":"https://fortnite-api.com/images/cosmetics/br/BID_001_BlueSquire/icon.png",
